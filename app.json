@@ -22,7 +22,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "rgb(56, 56, 56)"
-      }
+      },
+      "package": "com.vlad_brodich.ReactNative_VB_calculator_IOS",
+      "versionCode":"1",
+     " permissions":["SCHEDULE_EXACT_ALARM"]
     },
     "web": {
       "favicon": "./assets/favicon.png"
