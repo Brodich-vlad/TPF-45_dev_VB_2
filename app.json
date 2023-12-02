@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "RN Calculator IOS",
+    "slug": "React-Native_VB_calculator_IOS",
+    "privacy": "public",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "rgb(56, 56, 56)"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "rgb(56, 56, 56)"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3485de1f-4808-47db-84e5-b8da983d35ac"
+      }
+    }
+  }
+}
